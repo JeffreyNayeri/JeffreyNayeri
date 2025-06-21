@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋🏾, I'm Jeffrey Nayeri</h1>
-<p align="center">I'm passionate about building reliable, scalable systems through Quality Assurance and DevOps/Cloud Engineering. With a foundation in automation testing and ensuring software quality, I also design and manage scalable software delivery infrastructures. My focus is on streamlining development pipelines and deploying efficient cloud solutions to deliver seamless, high-quality applications.</p>
+<p align="center">I'm passionate about building reliable, scalable systems through Quality Assurance and DevOps/Cloud Engineering practices. With a foundation in automation testing and ensuring software quality, I also design and manage scalable software delivery infrastructures. My focus is on streamlining development pipelines and deploying efficient cloud solutions to deliver seamless, high-quality applications.</p>
 
 <br>
 
