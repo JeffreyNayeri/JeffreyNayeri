@@ -8,7 +8,7 @@
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
 - 🌱 I’m currently learning Infrastructure as code (Iac) with terraform, Configuration management with Ansible, CI/CD Pipeline Deployments using Jenkins and Containerization with Docker.
-- 💼 Job interests: DevOps Engineer, Cloud Engineer, or Quality Assurance Engineer (Intern or Junior level).
+- 💼 Job interests: DevOps Engineer, Cloud Engineer, or Quality Assurance Engineer.
 
 <br>
 
