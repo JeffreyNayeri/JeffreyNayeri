@@ -1,14 +1,8 @@
 <h1 align="center">Hi there 👋🏾, I'm Jeffrey Nayeri</h1>
-<p align="center">I'm passionate about building reliable, scalable systems through Quality Assurance and DevOps/Cloud Engineering practices. With a foundation in automation testing and ensuring software quality, I also design and manage scalable software delivery infrastructures. My focus is on streamlining development pipelines and deploying efficient cloud solutions to deliver seamless, high-quality applications.</p>
+<p align="center">I’m passionate about building reliable, scalable systems with Quality Assurance at the core. With experience in both manual and automation testing, I ensure quality is embedded throughout the design and development process. My focus is on enabling development pipelines that deploy efficient, high-quality applications with confidence.</p>
 
 <br>
 
-**Here's a quick summary about me**:
-
-- 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Engineering](https://engineering.altschoolafrica.com/) Class of 2024.
-- 🌱 I’m currently learning Infrastructure as code (Iac) with terraform, Configuration management with Ansible, CI/CD Pipeline Deployments using Jenkins and Containerization with Docker.
-- 💼 Job interests: DevOps Engineer, Cloud Engineer, or Quality Assurance Engineer roles.
 
 <br>
 
