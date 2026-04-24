@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋🏾, I'm Jeffrey Nayeri</h1>
-<p align="center">I’m passionate about building reliable, scalable systems with Quality Assurance at the core. With experience in both manual and automation testing, I ensure quality is embedded throughout the design and development process. My focus is on enabling development pipelines that deploy efficient, high-quality applications with confidence.</p>
+<p align="center">I’m passionate about building reliable, scalable systems with Quality Assurance at the core. With experience in both manual and automation testing, I ensure quality is embedded throughout the design and development process. </p>
 
 <br>
 
